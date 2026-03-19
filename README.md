@@ -84,6 +84,10 @@ La aplicación permite administrar:
 - 100 cursos generados automáticamente
 - 3 kits de robótica
 
+## Diagrama ER
+
+![Diagrama ER](diagrama_ER_activity7.png)
+
 ## Repositorio
 
 https://github.com/Erick-Barrera-225/activity7
